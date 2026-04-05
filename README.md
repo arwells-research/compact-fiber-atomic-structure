@@ -1,5 +1,5 @@
 # Atomic Structure from the Compact Fiber
-[![DOI](https://zenodo.org/badge/DOI/DOI_GOES_HERE.svg)](https://doi.org/DOI_GOES_HERE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19426034.svg)](https://doi.org/10.5281/zenodo.19426034)
 
 **Author:** A. R. Wells  
 **Affiliation:** Dual-Frame Research Group  
@@ -160,10 +160,11 @@ This paper depends on the compact-fiber structure established in Paper I and sho
 - Mature-core empirical comparison completed
 - One open global normalization constant remains
 
-Release: Zenodo DOI pending assignment
+Recommended citation:
 
-- Version v1 DOI: `TBD`
-- All versions DOI: `TBD`
+A. R. Wells (2026).
+*Atomic Structure from the Compact Fiber: Transport, Screening, and Spectroscopic Thresholds in the Reciprocal System* (v1).
+Zenodo. 10.5281/zenodo.19426035
 
 ---
 
@@ -171,10 +172,10 @@ Release: Zenodo DOI pending assignment
 
 If you use or reference this work, please cite the Zenodo record corresponding to the version used.
 
-Recommended citation (update DOI after Zenodo publication):
+Recommended citation:
 
-A. R. Wells (2026).  
-*Atomic Structure from the Compact Fiber: Transport, Screening, and Spectroscopic Thresholds in the Reciprocal System* (v1).  
-Zenodo. `TBD`
+A. R. Wells (2026).
+*Atomic Structure from the Compact Fiber: Transport, Screening, and Spectroscopic Thresholds in the Reciprocal System* (v1).
+Zenodo. 10.5281/zenodo.19426035
 
 This work is released under Creative Commons Attribution 4.0 (CC BY 4.0).
